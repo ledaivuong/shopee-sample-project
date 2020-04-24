@@ -1,0 +1,56 @@
+{
+  "uid" : "9898770acebd18d1",
+  "name" : "Hook",
+  "fullName" : "Complete register: I login with correct username and password.Hook",
+  "historyId" : "e3b07c8b1c51de010b96f02c424e4447",
+  "time" : {
+    "start" : 1587700095784,
+    "stop" : 1587700095786,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Complete register: I login with correct username and password"
+  }, {
+    "name" : "testClass",
+    "value" : "Complete register: I login with correct username and password"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Complete register: I login with correct username and password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9898770acebd18d1.json",
+  "parameterValues" : [ "chrome" ]
+}

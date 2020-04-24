@@ -1,0 +1,98 @@
+{
+  "uid" : "44389532ef449096",
+  "name" : "Hook",
+  "fullName" : "Complete register: I login with correct username and password.Hook",
+  "historyId" : "e3b07c8b1c51de010b96f02c424e4447",
+  "time" : {
+    "start" : 1587700320602,
+    "stop" : 1587700320602,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Complete register: I login with correct username and password"
+  }, {
+    "name" : "testClass",
+    "value" : "Complete register: I login with correct username and password"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Complete register: I login with correct username and password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b40c4ef124822abd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587700235892,
+        "stop" : 1587700235894,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "4e4e437b5abe2033",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587700118387,
+        "stop" : 1587700118388,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9898770acebd18d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587700095784,
+        "stop" : 1587700095786,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "fdfdd310537b1a3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587699616687,
+        "stop" : 1587699616687,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e18264d51a6f63e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587699588860,
+        "stop" : 1587699588861,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44389532ef449096.json",
+  "parameterValues" : [ "chrome" ]
+}

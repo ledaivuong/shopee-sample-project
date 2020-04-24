@@ -1,0 +1,108 @@
+{
+  "uid" : "91a23cb34183fafa",
+  "name" : "Given I go to page \"homePage\"",
+  "fullName" : "Complete register: I login with correct username and password.Given I go to page \"homePage\"",
+  "historyId" : "760fe69b08994fbf0b7836c9207434f3",
+  "time" : {
+    "start" : 1587700095786,
+    "stop" : 1587700098135,
+    "duration" : 2349
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1587700095790,
+        "stop" : 1587700097330,
+        "duration" : 1540
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4e4cf2851672a93d",
+        "name" : "Request",
+        "source" : "4e4cf2851672a93d.json",
+        "type" : "application/json",
+        "size" : 44
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1587700097330,
+        "stop" : 1587700098134,
+        "duration" : 804
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d251ea0884c26760",
+        "name" : "Request",
+        "source" : "d251ea0884c26760.json",
+        "type" : "application/json",
+        "size" : 65
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Complete register: I login with correct username and password"
+  }, {
+    "name" : "testClass",
+    "value" : "Complete register: I login with correct username and password"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I go to page \"homePage\""
+  }, {
+    "name" : "package",
+    "value" : "Complete register: I login with correct username and password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91a23cb34183fafa.json",
+  "parameterValues" : [ "chrome" ]
+}
